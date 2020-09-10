@@ -18,7 +18,7 @@ Working Log : 2020-08-17 19:36(ver.1)
 #!/usr/bin/env python3
 
 import sys
-import module_0824 as mod
+import final_module as mod
 from PyQt5.QtWidgets import QApplication, QTextBrowser, QComboBox, QMainWindow, QAction, qApp, QMessageBox, QPushButton, QFileDialog, QTextEdit
 from PyQt5.QtGui import QIcon
 
